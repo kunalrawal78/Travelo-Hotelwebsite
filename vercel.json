@@ -1,0 +1,7 @@
+
+
+{
+   "rewrites":  [
+       {"source": "/frontend/src", "destination": "/server"}
+    ]
+}
